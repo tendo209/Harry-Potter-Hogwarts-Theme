@@ -1,0 +1,46 @@
+{
+    "name":"House Gryffindor",
+    "author": "tendo209",
+	"description": "A Gryffindor Harry Potter theme for Onion OS v.4 and above. ",
+    "hideIconTitle":true,
+    "title":{
+        "font":"PixelOperatorMono.ttf",
+        "size":26,
+        "color":"#FFFFFF"
+    },
+    "path":{
+        "font":"PixelOperatorMono.ttf",
+        "size":26,
+        "color":"#FFFFFF"
+    },
+    "hint":{
+        "font":"PixelOperatorMono.ttf",
+        "size":26,
+        "color":"#FFFFFF"
+    },
+    "currentpage":{
+        "font":"PixelOperatorMono.ttf",
+        "size":26,
+        "color":"#FFFFFF"
+    },
+    "total":{
+        "font":"PixelOperatorMono.ttf",
+        "size":26,
+        "color":"#FFCC00"
+    },
+    "grid":{
+        "font":"PixelOperatorMono.ttf",
+        "fontascii":"PixelOperatorMono.ttf",
+        "grid1x4":22,
+        "grid3x4":22,
+        "color":"#FFFFFF",
+        "selectedcolor":"#FFCC00"
+    },
+    "list":{
+        "font":"PixelOperatorMono.ttf",
+        "fontascii":"PixelOperatorMono.ttf",
+        "size":20,
+        "color":"#FFFFFF",
+        "selectedcolor":"#FFCC00"
+    }
+}
